@@ -1,0 +1,9 @@
+geopandas==0.12.2
+fiona==1.8.22
+tqdm
+swig
+retrying
+godale
+imageio
+rasterio
+psycopg2
